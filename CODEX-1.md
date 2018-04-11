@@ -8,5 +8,4 @@ We have no distributed problem-solving methodology
 Create a codex that will allow to solve problems in a distributed fashion
 
 #### 2.1 Passive rules
-- A user can request a codex creation by creating an Issue. Each such issue should be interpreted as "I might have a problem that you might can solve and I will pay for it"
-- If a user created a codex-request we should asks him to describe the codex problem in a free form by creating an issue assigned to him
+- A user can request a codex creation by creating an Issue. Each such issue should be interpreted as "I might have a problem that you might can solve and I will pay for it". The issue should contain a problem description in a free form.
