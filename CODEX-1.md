@@ -9,3 +9,4 @@ Create a codex that will allow to solve problems in a distributed fashion
 
 #### 2.1 Passive rules
 - A user can request a codex creation by creating an Issue. Each such issue should be interpreted as "I might have a problem that you might can solve and I will pay for it". The issue should contain a problem description in a free form.
+- Codex-request issue should be linked to its codex file. If there is no file, the file should be created.
